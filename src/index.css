@@ -10,6 +10,15 @@ body{
 background-color: rgb(48, 45, 45);
     color: white;
     font-size: medium;
+    padding: 10px;
+    text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
+}
+.carousel{
+    height: 80vh;
+}
+
+.carousel img{
+    height: 80vh;
 }
