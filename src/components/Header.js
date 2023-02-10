@@ -5,8 +5,11 @@ export default function Header(){
     return(
         <div className="bd">
             <img src="../images/skate.jpg" />
-            <hr />
-            <h1>Fun fact about react</h1>
+            <ul className="nav">
+                <li>About</li>
+                <li>Home</li>
+                <li>Contact</li>
+            </ul>
         </div>
 
     )
