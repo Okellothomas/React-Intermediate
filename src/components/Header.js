@@ -3,7 +3,7 @@ import "../index.css"
 
 export default function Header(){
     return(
-        <div className="bd">
+        <div className="header">
             <img src="../images/skate.jpg" />
             <ul className="nav">
                 <li>About</li>

@@ -29,3 +29,25 @@ background-color: rgb(48, 45, 45);
     border: 2px solid yellow;
     border-radius: 50%;
 }
+
+.header img{
+    height: 50px;
+    width: 50px;
+    border: 3px solid brown;
+    border-radius: 50%;
+    justify-content: space-between;
+}
+
+.nav li{
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.header{
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    box-shadow: 0.8 0.9 red;
+}
